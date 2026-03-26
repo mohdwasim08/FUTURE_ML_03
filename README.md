@@ -127,7 +127,7 @@ jupyter notebook FUTURE_ML_03.ipynb
 
 ---
 
-## 🔄 Customization
+##  Customization
 
 To screen for a **different job role**, simply edit the `job_description` variable in **Step 4** of the notebook:
 
@@ -150,7 +150,7 @@ resumes.append({
 
 ---
 
-## 📚 Skills Gained
+##  Skills Gained
 
 - Natural Language Processing (NLP)
 - Text preprocessing and feature extraction
@@ -161,7 +161,7 @@ resumes.append({
 
 ---
 
-## 👤 Author
+## Author
 
 **Mohd Wasim**
 -  mohdwasim.tech@gmail.com
