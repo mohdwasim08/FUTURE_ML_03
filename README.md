@@ -163,7 +163,7 @@ resumes.append({
 
 ## Author
 
-**Mohd Wasim**
+**Mohammad Wasim**
 -  mohdwasim.tech@gmail.com
 -  [github.com/mohdwasim08](https://github.com/mohdwasim08)
 -  B.Tech Mechanical Engineering, Zakir Husain College of Engineering and Technology
